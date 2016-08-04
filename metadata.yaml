@@ -1,0 +1,71 @@
+_repo: Seraphita_1432
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wormeley, Katharine Prescott
+    birthdate: 1830
+    deathdate: 1908
+    gutenberg_agent_id: '661'
+    url: http://www.gutenberg.org/2009/agents/661
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: "Séraphîta (French pronunciation: ​[seʁafita]) is a French novel by Honoré\
+  \ de Balzac with themes of androgyny. It was published in the Revue de Paris in\
+  \ 1834. In contrast with the realism of most of the author's best known works, the\
+  \ story delves into the fantastic and the supernatural to illustrate philosophical\
+  \ themes.\nIn a castle in Norway near the fjord Stromfjord, Séraphitüs, a strange\
+  \ and melancholic being, conceals a terrible secret. Séraphitüs loves Minna, and\
+  \ she returns this love, believing Séraphitüs to be a man. But Séraphitüs is also\
+  \ loved by Wilfrid, who considers Séraphitüs to be a woman (Séraphîta).\nIn reality,\
+  \ Séraphitüs-Séraphîta is a perfect androgyne, born to parents who by the doctrines\
+  \ of Emanuel Swedenborg have transcended their humanity, and Séraphitüs-Séraphîta\
+  \ is the perfect example of humanity.\nRuggero Leoncavallo wrote a symphonic poem\
+  \ based on the story.\nAn early drawing of Paul Gauguin's Oviri ceramic sculpture\
+  \ bears the inscription \"Et le monstre, entréignant sa créature, féconde de sa\
+  \ semence des flancs généreux pour engendrer Séraphitus-Séraphita\" (And the monster,\
+  \ embracing its creation, filled her generous womb with seed and fathered Séraphitus-Séraphita),\
+  \ referencing the novel.\nIn 2010–2011 Ouriel Zohar staged Seraphita, his adaptation\
+  \ with Barbara Heman, performed in Paris at the \"Theatre de l'Ile Saint-Louis\"\
+  , Brussels, Greece, and Republic of Congo. In 2012 he staged it in the Maison de\
+  \ Balzac, Paris, Haifa, Greece, Switzerland, Istanbul and \"Theatre Darius Milhaud\"\
+  \ in Paris. In 2014 his theater went to India with his 2 shows: \"Message to Materialistes\"\
+  \ and \"Seraphita\".\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1432'
+  wikidata: Q2543893
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: Seraphita
+url: http://www.gutenberg.org/ebooks/1432
+wikipedia:
+- https://eo.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://pt.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://pl.wikipedia.org/wiki/Serafita
+- https://fr.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://es.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://en.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://it.wikipedia.org/wiki/S%C3%A9raph%C3%AEta
+- https://he.wikipedia.org/wiki/%D7%A1%D7%A8%D7%A4%D7%99%D7%98%D7%94

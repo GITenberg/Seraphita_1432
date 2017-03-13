@@ -1,5 +1,5 @@
 _repo: Seraphita_1432
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Wormeley, Katharine Prescott
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '661'
     url: http://www.gutenberg.org/2009/agents/661
     wikipedia: http://en.wikipedia.org/wiki/Katherine_Prescott_Wormeley
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -44,6 +47,8 @@ description: "Séraphîta (French pronunciation: ​[seʁafita]) is a French nov
   \ Balzac, Paris, Haifa, Greece, Switzerland, Istanbul and \"Theatre Darius Milhaud\"\
   \ in Paris. In 2014 his theater went to India with his 2 shows: \"Message to Materialistes\"\
   \ and \"Seraphita\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1432#Seraphita
 gutenberg_issued: '2005-09-07'
 gutenberg_type: Text
 identifiers:
